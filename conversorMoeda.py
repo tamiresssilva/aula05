@@ -1,4 +1,6 @@
 import tkinter as tk
+
+# função que consomeuma api pública
 from moeda import apidolar
 
 def dolar():
