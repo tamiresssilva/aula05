@@ -1,6 +1,6 @@
 import tkinter as tk
 
-# função que consomeuma api pública
+# função que consome uma api pública
 from moeda import apidolar
 
 def dolar():
